@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahjuasee.hnsr0327.me/sitemap.xml
